@@ -1,0 +1,14 @@
+/Users/bizzy/Documents/vsc/Historia_akcji/bin/Debug/net10.0/Historia_akcji
+/Users/bizzy/Documents/vsc/Historia_akcji/bin/Debug/net10.0/Historia_akcji.deps.json
+/Users/bizzy/Documents/vsc/Historia_akcji/bin/Debug/net10.0/Historia_akcji.runtimeconfig.json
+/Users/bizzy/Documents/vsc/Historia_akcji/bin/Debug/net10.0/Historia_akcji.dll
+/Users/bizzy/Documents/vsc/Historia_akcji/bin/Debug/net10.0/Historia_akcji.pdb
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/Historia_akcji.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/Historia_akcji.AssemblyInfoInputs.cache
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/Historia_akcji.AssemblyInfo.cs
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/Historia_akcji.csproj.CoreCompileInputs.cache
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/Historia_akcji.dll
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/refint/Historia_akcji.dll
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/Historia_akcji.pdb
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/Historia_akcji.genruntimeconfig.cache
+/Users/bizzy/Documents/vsc/Historia_akcji/obj/Debug/net10.0/ref/Historia_akcji.dll
